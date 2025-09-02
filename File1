@@ -1,0 +1,11 @@
+mkdir myFolder  --- creating directory
+cd myFolder/     --- Navigatig into directory
+vi my_file.txt   --- created file
+vi another_file.txt    -- created file
+ls    --- list all files
+cat another_file.txt >> my_file.txt    ---concatnate the file with my_file.txt
+cat my_file.txt      ---view file content
+ls
+touch file{1..20}.txt     ---- created files
+mv file1.txt file1.yml    ---- rename the file
+ls *.yml               ---- list all the yml file
