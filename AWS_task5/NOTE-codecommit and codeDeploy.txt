@@ -1,1 +1,5 @@
 AWS codecommit and AWS codeDeploy cannot access due to restriction on free account.
+
+As AWS codeDeploy build the image, so that we can access it on browser, but here due to restriction i can't do that
+
+For access it on browser it need docker server n all and that is not mentioned in task.
